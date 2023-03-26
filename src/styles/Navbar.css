@@ -1,0 +1,41 @@
+.logo{
+    width:100px;
+    height: 50px;
+}
+li{
+    color:gray;
+    
+}
+.nav-1{
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+.nav-1 ul{
+    display: flex;
+    padding:10px;
+    
+}
+.nav-2{
+    margin-left: 560px;
+    align-items: center;
+}
+.nav-2 ul{
+    display: flex;
+    padding:10px;
+    
+}
+.container--nav{
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content:  center;
+
+}
+li{
+     list-style: none;
+     padding: 10px;
+    align-items: center;
+}
+.link{
+    text-decoration: none;
+}
